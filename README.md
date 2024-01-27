@@ -13,6 +13,16 @@ Utilizes [**OpenCV**](https://github.com/opencv/opencv) library and [**template 
   * opencv-python - 4.9.0.80
 
 ## Instructions
+### Clone the Repo
+```bash
+git clone https://github.com/niedobam/embossed-ed-reader.git
+```
+
+### Go Into Project Directory
+```bash
+cd embossed-ed-reader
+```
+
 ### Create Python Virtual Environment
 ```python
 python -m venv <env_name>
